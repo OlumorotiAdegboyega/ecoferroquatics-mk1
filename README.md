@@ -47,6 +47,8 @@ In controlled testing, ECOFERROQUATICS Mk-1:
 ## Media
 ![Robot Prototype](media/robot.jpg)
 ![Results Graph](experiments/graphs.png)
+[Sample Video](https://www.youtube.com/watch?v=6Y_gKKuMHug)
+[Explanation Video](https://www.youtube.com/watch?v=lcMyvF_FRY8)
 
 ## Challenges
 - Buoyancy and balance required repeated tuning
