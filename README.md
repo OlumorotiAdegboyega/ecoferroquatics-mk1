@@ -43,11 +43,10 @@ In controlled testing, ECOFERROQUATICS Mk-1:
 - Performed best with larger porous plastics
 - Outperformed a manual baseline method on smaller particle sizes
 - Successfully operated across multiple polymer and size classes
+![Results Graph](experiments/graphs.png)
 
 ## Media
 ![Robot Prototype](media/robot.jpg)
-
-![Results Graph](experiments/graphs.png)
 
 📹 [Sample Video](https://www.youtube.com/watch?v=6Y_gKKuMHug)
 
