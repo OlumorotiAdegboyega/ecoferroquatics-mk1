@@ -5,7 +5,11 @@ AI-Powered Ferrofluid Robot for Selective Plastic Removal
 
 ## Overview
 Ecoferroquatics Mk-1 is an autonomous aquatic robot designed to detect and remove plastic from water. The robot utilizes AI-based computer vision, combined with a custom ferrofluid and magnetic drum system, to selectively capture plastic pollutants. The goal is to create a smarter alternative to traditional cleanup methods, such as nets, skimmers, and filters.
-
+### Key Results
+- 51.85% plastic removal in controlled trials  
+- 1.73 pieces recovered per minute  
+- Outperformed manual baseline on small particles
+  
 ## Problem
 Current plastic cleanup methods are often non-selective. Nets, skimmers, and filters can clog quickly, disturb wildlife, and struggle to recover smaller plastic pollutants efficiently.
 Essentially, current methods require too much manpower, kill animals and fail to heal the earth of the aquatic plastic pollutants effectively.
@@ -25,11 +29,16 @@ My project uses computer vision to detect floating plastic in real time and guid
 - Double-decked system
 - Paddle-based propulsion for silent, less disruptive movement
 
+### Plastic Remediation
+- This innovative system is the backbone of how plastics are magnetized by the robot and pulled out of the water
+![System Architecture](hardware/drum.jpg) 
+
 ### Electronics
-- Electronics stowed on upper deck high above water.
+- Electronics stowed on the upper deck high above water.
 - Raspberry Pi 4B for vision and high-level control
 - ESP32 for motor control
 - 2 Cell Battery-powered mobile platform
+![System Architecture](hardware/arch.jpg) 
 
 ### Ferrofluid Chemistry
 - Custom oil-based ferrofluid containing magnetite particles
@@ -51,7 +60,6 @@ In controlled testing, ECOFERROQUATICS Mk-1:
 📹 [Sample Video](https://www.youtube.com/watch?v=6Y_gKKuMHug)
 
 📹 [Explanation Video](https://www.youtube.com/watch?v=lcMyvF_FRY8)
-
 
 
 ## Challenges
