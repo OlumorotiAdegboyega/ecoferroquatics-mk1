@@ -49,9 +49,9 @@ In controlled testing, ECOFERROQUATICS Mk-1:
 
 ![Results Graph](experiments/graphs.png)
 
-[Sample Video](https://www.youtube.com/watch?v=6Y_gKKuMHug)
+📹 [Sample Video](https://www.youtube.com/watch?v=6Y_gKKuMHug)
 
-[Explanation Video](https://www.youtube.com/watch?v=lcMyvF_FRY8)
+📹 [Explanation Video](https://www.youtube.com/watch?v=lcMyvF_FRY8)
 
 
 
