@@ -1,7 +1,7 @@
 # ECOFERROQUATICS MK-1
 AI-Powered Ferrofluid Robot for Selective Plastic Removal
 
-![Alt Text](media/hero.jpg) 
+![Robot Visual](media/hero.jpg) 
 
 ## Overview
 Ecoferroquatics Mk-1 is an autonomous aquatic robot designed to detect and remove plastic from water. The robot utilizes AI-based computer vision, combined with a custom ferrofluid and magnetic drum system, to selectively capture plastic pollutants. The goal is to create a smarter alternative to traditional cleanup methods, such as nets, skimmers, and filters.
@@ -59,6 +59,7 @@ In controlled testing, ECOFERROQUATICS Mk-1:
 - Further validate environmental safety and ferrofluid containment
 - Swarm behaviour robotics
 - Subsurface underwater construction
+- 
 ![Development Pipeline](media/plan.jpg)
 
 ## Tech Stack
