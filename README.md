@@ -65,7 +65,6 @@ In controlled testing, ECOFERROQUATICS Mk-1:
 - Further validate environmental safety and ferrofluid containment
 - Swarm behaviour robotics
 - Subsurface underwater construction
-- 
 ![Development Pipeline](media/plan.jpg)
 
 ## Tech Stack
@@ -79,6 +78,7 @@ In controlled testing, ECOFERROQUATICS Mk-1:
 - ESP32
 - Custom ferrofluid formulation
 - Motor driver and aquatic propulsion system
+![Techk Stack](media/stack.jpg)
 
 ## Repo Structure
 - `media/` → photos and demo visuals
